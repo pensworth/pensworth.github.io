@@ -33,28 +33,108 @@ author: jadebrockwell
   </thead>
   <tbody>
     <tr>
-      <td>Double Cream</td>
-      <td>4 pint</td>
+      <td>Tims VFF Fruit Mixed Tray</td>
+      <td>12 x 110 g</td>
     </tr>
     <tr>
-      <td>Single Cream</td>
-      <td>4 pint</td>
+      <td>Tims Low Fat Fruit Mixed Tray</td>
+      <td>12 x 125 g</td>
     </tr>
     <tr>
-      <td>Whipping Cream</td>
-      <td>4 pint</td>
+      <td>Tims Thick & Creamy Mixed Tray</td>
+      <td>12 x 125 g</td>
     </tr>
      <tr>
-      <td>Double Cream</td>
-      <td>15 litre</td>
+      <td>Tims Natural Low Fat Tray</td>
+      <td>12 x 125 g</td>
     </tr>
     <tr>
-      <td>Whipping Cream</td>
-      <td>15 litre</td>
+      <td>Tims Whole Milk Cherry</td>
+      <td>150 g</td>
     </tr>
         <tr>
-      <td>Organic Double Cream</td>
-      <td>4 pint</td>
+      <td>Tims Whole Milk Raspberry</td>
+      <td>150 g</td>
+    </tr>
+    <tr>
+      <td>Tims Whole Milk Strawberry</td>
+      <td>150 g</td>
+    </tr>
+    <tr>
+      <td>Tims Whole Milk Toffee</td>
+      <td>150 g</td>
+    </tr>
+    <tr>
+      <td>Tims Whole Milk Fruit (Multipack)</td>
+      <td>4 x 150 g</td>
+    </tr>
+    <tr>
+      <td>Tims Greek Style Blackcurrant</td>
+      <td>175 g</td>
+    </tr>
+    <tr>
+      <td>Tims Greek Style Honey</td>
+      <td>175 g</td>
+    </tr>
+    <tr>
+      <td>Tims Greek Style Raspberry</td>
+      <td>175 g</td>
+    </tr>
+    <tr>
+      <td>Tims Greek Style Vanilla</td>
+      <td>175 g</td>
+    </tr>
+    <tr>
+      <td>Tims Greek Style Honey</td>
+      <td>450 g</td>
+    </tr>
+    <tr>
+      <td>Tims Greek Style Vanilla</td>
+      <td>450 g</td>
+    </tr>
+    <tr>
+      <td>Tims Greek Style Natural</td>
+      <td>200 g</td>
+    </tr>
+    <tr>
+      <td>Tims Low Fat Natural</td>
+      <td>500 g</td>
+    </tr>
+    <tr>
+      <td>Tims Very Low Fat Peach</td>
+      <td>4.6 litre</td>
+    </tr>
+    <tr>
+      <td>Tims Very Low Fat Strawberry</td>
+      <td>4.6 litre</td>
+    </tr>
+    <tr>
+      <td>Tims Very Low Fat Stirred Natural</td>
+      <td>5 kg</td>
+    </tr>
+    <tr>
+      <td>Tims Greek Style Natural</td>
+      <td>5 kg</td>
+    </tr>
+    <tr>
+      <td>Tims Greek Style Set Natural</td>
+      <td>5 kg</td>
+    </tr>
+    <tr>
+      <td>Tims Greek Style Fat Free</td>
+      <td>5 kg</td>
+    </tr>
+    <tr>
+      <td>Tims Natural Low Fat Set</td>
+      <td>5 kg</td>
+    </tr>
+      <tr>
+      <td>Thick & Creamy Smooth</td>
+      <td>12 x 110 g</td>
+    </tr>
+      <tr>
+      <td>Muller ‘A’ Light Mixed Flavours</td>
+      <td>12 x 125 g</td>
     </tr>
   </tbody>
 </table>
@@ -70,74 +150,44 @@ author: jadebrockwell
   </thead>
   <tbody>
     <tr>
-      <td>Whipping Cream</td>
-      <td>1 litre</td>
+      <td>YV Organic Mango and Vanilla Whole Milk</td>
+      <td>12 x 80 g</td>
     </tr>
     <tr>
-      <td>Single Cream</td>
-      <td>1 litre</td>
+      <td>YV Organic Strawberry Whole Milk</td>
+      <td>12 x 80 g</td>
     </tr>
     <tr>
-      <td>Aerosol Cream</td>
-      <td>500 g</td>
-    </tr>
-     <tr>
-      <td>UHT Cream Portions</td>
-      <td>120 x 12 ml</td>
-    </tr>
-  </tbody>
-</table>
-
-## Cream Products
-
-<table>
-  <thead>
-    <tr>
-      <th> Product Name</th>
-      <th>Unit Size</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Crème Fraîche</td>
-      <td>2 kg</td>
+      <td>YV Organic Raspberry Whole Milk</td>
+      <td>12 x 80 g</td>
     </tr>
     <tr>
-      <td>Set Soured Cream</td>
-      <td>2 kg</td>
+      <td>YV Organic Natural Whole Milk</td>
+      <td>12 x 80 g</td>
     </tr>
     <tr>
-      <td>Clotted Cream</td>
-      <td>454 g</td>
+      <td>YV Organic Blueberry Whole Milk</td>
+      <td>12 x 120 g</td>
     </tr>
     <tr>
-      <td>Clotted Cream</td>
-      <td>1 kg</td>
-    </tr>
-  </tbody>
-</table>
-
-## Cream Cuplets
-
-<table>
-  <thead>
-    <tr>
-      <th> Product Name</th>
-      <th>Unit Size</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Double Cream</td>
-      <td>284 ml</td>
+      <td>YV Organic Peach and Apricot Whole Milk</td>
+      <td>12 x 120 g</td>
     </tr>
     <tr>
-      <td>Single Cream</td>
-      <td>284 ml</td>
+      <td>YV Organic Strawberry Whole Milk</td>
+      <td>12 x 120 g</td>
     </tr>
     <tr>
-      <td>Whipping Cream</td>
-      <td>284 ml</td>
+      <td>YV Organic Fat Free Vanilla</td>
+      <td>12 x 120 g</td>
+    </tr>
+    <tr>
+      <td>YV Greek Style Natural</td>
+      <td>8 x 150 g</td>
+    </tr>
+    <tr>
+      <td>YV Greek Style Fat Free</td>
+      <td>8 x 150 g</td>
     </tr>
   </tbody>
 </table>
