@@ -6,7 +6,7 @@ subtitle: Delivering across the nation.
 description: This page shows the vast amount of yogurt products we stock and deliver at Pensworth to your business.
 image: https://static.wixstatic.com/media/03c1b0_b6510cd921f144e784eb1e63b9e41eca~mv2.jpg/v1/fill/w_1189,h_300,al_c,q_80,usm_0.66_1.00_0.01/03c1b0_b6510cd921f144e784eb1e63b9e41eca~mv2.webp
 optimized_image: https://static.wixstatic.com/media/03c1b0_d17de10d4f2e4fb2bbeca1706f474161~mv2.jpg/v1/fill/w_484,h_211,al_c,q_80,usm_0.66_1.00_0.01/03c1b0_d17de10d4f2e4fb2bbeca1706f474161~mv2.webp
-category: Cream
+category: Yogurt
 tags:
   - yogurt
   - variaty
