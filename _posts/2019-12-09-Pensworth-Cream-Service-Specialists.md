@@ -9,7 +9,7 @@ optimized_image: https://static.wixstatic.com/media/03c1b0_27c85b7dc8be4dadb064b
 category: Cream
 tags:
   - cream
-  - variaty
+  - selection
   - choice
 author: jadebrockwell
 ---
