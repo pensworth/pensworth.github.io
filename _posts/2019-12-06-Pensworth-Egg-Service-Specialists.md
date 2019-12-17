@@ -9,7 +9,7 @@ optimized_image: https://static.wixstatic.com/media/03c1b0_5bb42f377d35499aa3d53
 category: Eggs
 tags:
   - eggs
-  - variaty
+  - selection
   - choice
 author: jadebrockwell
 ---
