@@ -9,7 +9,7 @@ optimized_image: https://static.wixstatic.com/media/03c1b0_67f47915c3ad4e95b3e5c
 category: Bread
 tags:
   - bread
-  - variaty
+  - selection
   - choice
 author: jadebrockwell
 ---
