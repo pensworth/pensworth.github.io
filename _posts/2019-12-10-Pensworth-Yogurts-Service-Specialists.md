@@ -9,7 +9,7 @@ optimized_image: https://static.wixstatic.com/media/03c1b0_d17de10d4f2e4fb2bbeca
 category: Yogurt
 tags:
   - yogurt
-  - variaty
+  - selection
   - choice
 author: jadebrockwell
 ---
