@@ -18,7 +18,7 @@ author: jadebrockwell
 
 ## FOODSERVICE DRINKS
 
-> Pensworth work with over 130 Independent Dairymen and women and ‘Bottled Milk Buyers’ who supply over 100,000 doorstep customers with their daily delivery of milk and dairy products. To take advantage of this first class service please complete the our form and we will put you in touch with your local milkman or woman.
+> Our foodservice range has been put together especially for supply of hotels, schools, hospitals, restaurants and other customers in the foodservice and ingredients sector with single and bulk sized options.
 
 ![placeholder](Our foodservice range has been put together especially for supply of hotels, schools, hospitals, restaurants and other customers in the foodservice and ingredients sector with single and bulk sized options "Drinks")
 
@@ -71,43 +71,43 @@ author: jadebrockwell
   <tbody>
     <tr>
       <td>Orange Juice</td>
-      <td></td>
+      <td>1 litre</td>
     </tr>
     <tr>
       <td>Apple Juice</td>
-      <td></td>
+      <td>1 litre</td>
     </tr>
     <tr>
       <td>Pineapple Juice</td>
-      <td></td>
+      <td>1 litre</td>
     </tr>
     <tr>
       <td>Tomato Juice</td>
-      <td></td>
+      <td>1 litre</td>
     </tr>
     <tr>
       <td>Cranberry Juice Drink</td>
-      <td></td>
+      <td>1 litre</td>
     </tr>
     <tr>
       <td>Tropical Juice Drink</td>
-      <td></td>
+      <td>1 litre</td>
     </tr>
       <tr>
       <td>Orange Juice</td>
-      <td></td>
+      <td>24 x 200 ml</td>
     </tr>
       <tr>
       <td>Apple Juice</td>
-      <td></td>
+      <td>24 x 200 ml</td>
     </tr>
       <tr>
       <td>Orange Juice (schools approved)</td>
-      <td></td>
+      <td>24 x 200 ml</td>
     </tr>
         <tr>
       <td>Apple Juice (schools approved)</td>
-      <td></td>
+      <td>24 x 200 ml</td>
     </tr>
   </tbody>
 </table>
